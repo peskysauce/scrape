@@ -4,7 +4,7 @@ I had promised myself to learn web-scraping as part of my learning progression i
 There are two files within this repository. 'Scraping first look' is the introductory notebook for when I just started learning from Youtube, and 'Project-04' is the file where I apply what I've learnt to scrape a website of my choice.
 
 ### **What do I want to learn?**
-Youtube, Stackoverflow and many other websites have given me introductory web-scraping preview, though easy to follow, does not reflect the modern website structure.
+Numerous websites have given me introductory web-scraping preview, though easy to follow, does not reflect the modern website structure.
 
 These websites shown were mostly static, not updated and have a simple structure, when applied to read world websites with dynamic javascript built website and the doomed 'infinite scrolling' we now see, especially on social media, these methods are sure to fail.
 
