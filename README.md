@@ -1,7 +1,6 @@
 # Case
 I had promised myself to learn web-scraping as part of my learning progression in my previous projects. I am very happy to say that I have done my first scraping project and learnt so much, despite the frustration (as usual)
 
-<br>
 
 #### **What do I want to learn?**
 Youtube, stackoverflow and many other websites have given me introductory web-scraping preview, though easy to follow, does not reflect the modern website structure.
