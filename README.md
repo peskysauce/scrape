@@ -14,10 +14,14 @@ Throughout my learning progress I have gather much needed information through Yo
 ### **Slowly learning the structure of HTML**
 Very quickly I learnt that knowing the libraries only tells me how to use the library, it does not however teach me how to read HTML, which is of course required because the elements are hidden within. I had to put everything behind for the time being and learn some HTML tags, attributes, classes, tables and more.
 
+<br>
+
 ### **Start scraping**
 With some elementary knowledge about HTML structure I start my scraping practice, only to face another road-block because the library I know at that time (BeautifulSoup) a popular library is not very useful to scrape a dymamic webpage. After some googling selenium came up and now I have to learn that library instead. 
 
 These patterns of road-blocks and troubleshooting pops up every once in a while, for which I have spent a lot of time but also grateful knowing the hows and whys to make it work.
+
+<br>
 
 ### **Finally start scraping (maybe?)**
 Using selenium itself is quite a joy for automation. As usual more obstacle pops up, bypassing verification, clicking on buttons, formatting extracted elements, simulate scrolling are all frustrating but great experiences. You can find it further within the code.
