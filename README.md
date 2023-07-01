@@ -12,7 +12,7 @@ Throughout my learning progress I have gather much needed information through Yo
 
 <br>
 
-### **Slowly learning the structure of HTML**
+### ** Learning the structure of HTML**
 Very quickly I learnt that knowing the libraries only tells me how to use the library, it does not however teach me how to read HTML, which is of course required because the elements are hidden within. I had to put everything behind for the time being and learn some HTML tags, attributes, classes, tables and more.
 
 <br>
